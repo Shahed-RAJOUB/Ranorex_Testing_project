@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="38.34s"
+		durationms="38339"
+		type="root"
+		rid="13562f7182c416b4"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="a839717"
+		rxversion="10.1.6.0"
+		host="DESKTOP-3790SJR"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-AT"
+		screenresolution="1920x1080"
+		timestamp="25/02/2022 13:05:11"
+		timestampiso="2022-02-25T12:05:11"
+		endtime="25/02/2022 13:05:50"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.502"
+			timeRelativeToTestModuleStartTime="00:06.502"
+			timeWallClock="13:05:18"
+			time="00:06.502"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>Msg
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.522"
+			timeRelativeToTestModuleStartTime="00:06.522"
+			timeWallClock="13:05:18"
+			time="00:06.522"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'UiBankGoogleChrome.Element81327008' at 489;363.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='UiBank - Google Chrome']/element[@controlid='81327008']"
+				itempath="element[@controlid='81327008']"
+				fullname="Uibank_Loans_testRepository.UiBankGoogleChrome.Element81327008"
+				id="863821a7356a405c95df82b664e48e60"
+				timeout="60000"
+				codefile="C:\Users\a839717\OneDrive - Atos\Documents\Home\BA\Ranorex\Uibank_Loans_test\Uibank_Loans_test\Recording1.cs"
+				codeline="95"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:38.340"
+			timeRelativeToTestModuleStartTime="00:38.340"
+			timeWallClock="13:05:50"
+			time="00:38.340"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Uibank_Loans_test</name>
+    </assembly>
+    <members>
+        <member name="T:Uibank_Loans_test.CloseBrowser">
+             <summary>
+            The CloseBrowser recording.
+             </summary>
+        </member>
+        <member name="F:Uibank_Loans_test.CloseBrowser.repo">
+            <summary>
+            Holds an instance of the Uibank_Loans_testRepository repository.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.CloseBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.CloseBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.CloseBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Uibank_Loans_test.CloseBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.CloseBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Uibank_Loans_test.CloseBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:Uibank_Loans_test.OpenBrowser">
+             <summary>
+            The OpenBrowser recording.
+             </summary>
+        </member>
+        <member name="F:Uibank_Loans_test.OpenBrowser.repo">
+            <summary>
+            Holds an instance of the Uibank_Loans_testRepository repository.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.OpenBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.OpenBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.OpenBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Uibank_Loans_test.OpenBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.OpenBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Uibank_Loans_test.OpenBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:Uibank_Loans_test.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:Uibank_Loans_test.Recording1.repo">
+            <summary>
+            Holds an instance of the Uibank_Loans_testRepository repository.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Recording1.Msg">
+            <summary>
+            Gets or sets the value of variable Msg.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Uibank_Loans_test.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Uibank_Loans_test.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:Uibank_Loans_test.Recording2">
+             <summary>
+            The Recording2 recording.
+             </summary>
+        </member>
+        <member name="F:Uibank_Loans_test.Recording2.repo">
+            <summary>
+            Holds an instance of the Uibank_Loans_testRepository repository.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Recording2.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Recording2.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Recording2.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:Uibank_Loans_test.Recording2.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Recording2.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:Uibank_Loans_test.Recording2.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:Uibank_Loans_test.Uibank_Loans_testRepository">
+            <summary>
+            The class representing the Uibank_Loans_testRepository element repository.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the Uibank_Loans_testRepository element repository.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Uibank_Loans_testRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepository.ApplicationUnderTest">
+            <summary>
+            The ApplicationUnderTest folder.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepository.UiBankGoogleChrome">
+            <summary>
+            The UiBankGoogleChrome folder.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepository.Explorer">
+            <summary>
+            The Explorer folder.
+            </summary>
+        </member>
+        <member name="T:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ApplicationUnderTestAppFolder">
+            <summary>
+            The ApplicationUnderTestAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ApplicationUnderTestAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ApplicationUnderTest  folder.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ApplicationUnderTestAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ApplicationUnderTestAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ApplicationUnderTestAppFolder.SomeBodyTag">
+            <summary>
+            The SomeBodyTag item.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ApplicationUnderTestAppFolder.SomeBodyTagInfo">
+            <summary>
+            The SomeBodyTag item info.
+            </summary>
+        </member>
+        <member name="T:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.UiBankGoogleChromeAppFolder">
+            <summary>
+            The UiBankGoogleChromeAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.UiBankGoogleChromeAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new UiBankGoogleChrome  folder.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.UiBankGoogleChromeAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.UiBankGoogleChromeAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.UiBankGoogleChromeAppFolder.Element81327008">
+            <summary>
+            The Element81327008 item.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.UiBankGoogleChromeAppFolder.Element81327008Info">
+            <summary>
+            The Element81327008 item info.
+            </summary>
+        </member>
+        <member name="T:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ExplorerAppFolder">
+            <summary>
+            The ExplorerAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ExplorerAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Explorer  folder.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ExplorerAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ExplorerAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.ExplorerAppFolder.RunningApplications">
+            <summary>
+            The RunningApplications folder.
+            </summary>
+        </member>
+        <member name="T:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder">
+            <summary>
+            The RunningApplicationsFolder folder.
+            </summary>
+        </member>
+        <member name="M:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RunningApplications  folder.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder.RanorexStudio1RunningWindow">
+            <summary>
+            The RanorexStudio1RunningWindow item.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder.RanorexStudio1RunningWindowInfo">
+            <summary>
+            The RanorexStudio1RunningWindow item info.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder.GoogleChrome1RunningWindow">
+            <summary>
+            The GoogleChrome1RunningWindow item.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder.GoogleChrome1RunningWindowInfo">
+            <summary>
+            The GoogleChrome1RunningWindow item info.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder.Outlook2RunningWindows">
+            <summary>
+            The Outlook2RunningWindows item.
+            </summary>
+        </member>
+        <member name="P:Uibank_Loans_test.Uibank_Loans_testRepositoryFolders.RunningApplicationsFolder.Outlook2RunningWindowsInfo">
+            <summary>
+            The Outlook2RunningWindows item info.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

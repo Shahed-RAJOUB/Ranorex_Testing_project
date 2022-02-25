@@ -1,0 +1,9 @@
+﻿<Properties>
+  <Array name="active" />
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="Uibank_Loans_test.rxtst" />
+    <Element value="Recording2.rxrec" />
+  </Array>
+  <Properties name="projectSavedData" />
+</Properties>

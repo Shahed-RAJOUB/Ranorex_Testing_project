@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Uibank_Loans_test"
+      id="0a9945be-0770-449b-a14b-c829d8141fea"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Uibank_Loans_test"
+      id="0a9945be-0770-449b-a14b-c829d8141fea"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

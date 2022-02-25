@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="9fd86299-2498-4c79-bb68-50130cc9d19b"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenBrowser"
+	namespace="Uibank_Loans_test">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="chrome"
+		clearcache="False"
+		clearcodecache="False"
+		clearcookies="False"
+		clearserviceworker="False"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				https://uibank.uipath.com/loans/apply
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="f763a45e-29bd-43ab-ac04-127c83cf7928"
+	name="Uibank_Loans_testRepository"
+	relativepath="Uibank_Loans_testRepository.rxrep">
+		<codegen
+		classname="Uibank_Loans_testRepository"
+		namespace="Uibank_Loans_test">
+		</codegen>
+		<rootfolder
+		id="b6b76223-db5d-495f-99c1-0163314400c8"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

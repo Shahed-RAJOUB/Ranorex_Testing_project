@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="0c0f4c49-87f1-4946-8087-273a27499f65"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="Uibank_Loans_test">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="ab57d8c3-5201-44f0-9354-ca046916eb4a">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="cf64fd04-c350-4d08-9726-3c2e6b18ffab"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='chrome']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="f763a45e-29bd-43ab-ac04-127c83cf7928"
+	name="Uibank_Loans_testRepository"
+	relativepath="Uibank_Loans_testRepository.rxrep">
+		<codegen
+		classname="Uibank_Loans_testRepository"
+		namespace="Uibank_Loans_test">
+		</codegen>
+		<rootfolder
+		id="b6b76223-db5d-495f-99c1-0163314400c8"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
